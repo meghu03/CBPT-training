@@ -1,0 +1,121 @@
+2024-10-19T11:30:56.784+05:30  INFO 9464 --- [main] c.e.springweb.ProductrestapiApplication  : Starting ProductrestapiApplication using Java 21.0.4 with PID 9464 (C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\productrestapi\target\classes started by HP in C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\productrestapi)
+2024-10-19T11:30:56.791+05:30  INFO 9464 --- [main] c.e.springweb.ProductrestapiApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-10-19T11:30:58.450+05:30  INFO 9464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-10-19T11:30:58.620+05:30  INFO 9464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 145 ms. Found 1 JPA repository interface.
+2024-10-19T11:30:59.945+05:30  INFO 8704 --- [main] c.e.springweb.ProductrestapiApplication  : Starting ProductrestapiApplication using Java 21.0.4 with PID 8704 (C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\productrestapi\target\classes started by HP in C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\productrestapi)
+2024-10-19T11:30:59.953+05:30  INFO 8704 --- [main] c.e.springweb.ProductrestapiApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-10-19T11:31:00.234+05:30  INFO 9464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-19T11:31:00.312+05:30  INFO 9464 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-19T11:31:00.313+05:30  INFO 9464 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19T11:31:00.687+05:30  INFO 9464 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-19T11:31:00.689+05:30  INFO 9464 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3753 ms
+2024-10-19T11:31:01.195+05:30  INFO 9464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-19T11:31:01.935+05:30  INFO 8704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-10-19T11:31:02.209+05:30  INFO 8704 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 247 ms. Found 1 JPA repository interface.
+2024-10-19T11:31:02.524+05:30  INFO 9464 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3711c71c
+2024-10-19T11:31:02.530+05:30  INFO 9464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-19T11:31:02.692+05:30  INFO 9464 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19T11:31:03.097+05:30  INFO 9464 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-10-19T11:31:03.242+05:30  INFO 9464 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-10-19T11:31:03.969+05:30  INFO 8704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-19T11:31:04.018+05:30  INFO 8704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-19T11:31:04.019+05:30  INFO 8704 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19T11:31:04.177+05:30  INFO 8704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-19T11:31:04.178+05:30  INFO 8704 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4075 ms
+2024-10-19T11:31:04.261+05:30  INFO 9464 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-10-19T11:31:04.617+05:30  INFO 8704 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-19T11:31:05.495+05:30  INFO 8704 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5329f6b3
+2024-10-19T11:31:05.501+05:30  INFO 8704 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-19T11:31:05.620+05:30  INFO 8704 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19T11:31:05.815+05:30  INFO 8704 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-10-19T11:31:05.937+05:30  INFO 8704 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-10-19T11:31:06.678+05:30  INFO 8704 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-10-19T11:31:06.694+05:30  INFO 9464 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19T11:31:06.702+05:30  INFO 9464 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-10-19T11:31:07.393+05:30  WARN 9464 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-10-19T11:31:08.218+05:30  WARN 9464 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-10-19T11:31:08.224+05:30  INFO 9464 --- [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-10-19T11:31:08.229+05:30  INFO 9464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-19T11:31:08.264+05:30  INFO 9464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-10-19T11:31:08.292+05:30  INFO 9464 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-10-19T11:31:08.377+05:30 ERROR 9464 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-10-19T11:31:09.135+05:30  INFO 8704 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19T11:31:09.143+05:30  INFO 8704 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-10-19T11:31:09.713+05:30  WARN 8704 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-10-19T11:31:10.331+05:30  WARN 8704 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-10-19T11:31:10.335+05:30  INFO 8704 --- [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-10-19T11:31:10.339+05:30  INFO 8704 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-19T11:31:10.356+05:30  INFO 8704 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-10-19T11:31:10.380+05:30  INFO 8704 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-10-19T11:31:10.422+05:30 ERROR 8704 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-10-19T12:59:00.561+05:30  INFO 7368 --- [main] c.e.springweb.ProductrestapiApplication  : Starting ProductrestapiApplication using Java 21.0.4 with PID 7368 (C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\productrestapi\target\classes started by HP in C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.25.0.RELEASE\productrestapi)
+2024-10-19T12:59:00.570+05:30  INFO 7368 --- [main] c.e.springweb.ProductrestapiApplication  : No active profile set, falling back to 1 default profile: "default"
+2024-10-19T12:59:05.575+05:30  INFO 7368 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-10-19T12:59:05.745+05:30  INFO 7368 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 143 ms. Found 1 JPA repository interface.
+2024-10-19T12:59:07.517+05:30  INFO 7368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-10-19T12:59:07.551+05:30  INFO 7368 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-19T12:59:07.551+05:30  INFO 7368 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-19T12:59:07.691+05:30  INFO 7368 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-19T12:59:07.693+05:30  INFO 7368 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6965 ms
+2024-10-19T12:59:08.250+05:30  INFO 7368 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-19T12:59:09.072+05:30  INFO 7368 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c50cd7d
+2024-10-19T12:59:09.078+05:30  INFO 7368 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-19T12:59:09.187+05:30  INFO 7368 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-19T12:59:09.434+05:30  INFO 7368 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-10-19T12:59:09.562+05:30  INFO 7368 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-10-19T12:59:10.348+05:30  INFO 7368 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-10-19T12:59:12.328+05:30  INFO 7368 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-19T12:59:12.336+05:30  INFO 7368 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-10-19T12:59:12.998+05:30  WARN 7368 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-10-19T12:59:14.611+05:30  INFO 7368 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-10-19T12:59:14.856+05:30  WARN 7368 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-10-19T12:59:14.867+05:30  INFO 7368 --- [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-10-19T12:59:14.874+05:30  INFO 7368 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-19T12:59:14.906+05:30  INFO 7368 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-10-19T12:59:14.973+05:30  INFO 7368 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-10-19T12:59:15.037+05:30 ERROR 7368 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
